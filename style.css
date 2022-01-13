@@ -1,0 +1,24 @@
+.title {
+    text-align: center;
+}
+
+.recipes {
+    list-style: none;
+}
+
+.image {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    vertical-align: middle;
+    padding-right: 10px;
+}
+
+.text {
+    vertical-align: middle;
+}
+
+li {
+    margin: 5%;
+    margin-left: 0px;
+}
